@@ -18,7 +18,6 @@ The Bamazon Customer Portal allows users to view and edit the inventory of the s
  <li>View low inventory</li>
  <li>Add to inventory</li>
  <li>Add a new product</li>
- <li>Manager Options 1 & 2</li>
 </ul>
 
 The first option allows the user to see the list of products that are currently for sale, what department the item belongs to, the price of the product, how much stock is left for that product, and the sales for that product.
@@ -35,7 +34,7 @@ The last option allows the user to add a new product to the inventory. Prompts a
 
 ## Bamazon Supervisor Portal
 
-The Bamazon Executive Portal allows users to view the total profits of the store categorized by department and add new departments.
+The Bamazon Supervisor Portal allows users to view the total profits of the store categorized by department and add new departments.
 <div style="text-align: center;">
   <img src="imgs/bamazonSupervisor.png">
 </div>
